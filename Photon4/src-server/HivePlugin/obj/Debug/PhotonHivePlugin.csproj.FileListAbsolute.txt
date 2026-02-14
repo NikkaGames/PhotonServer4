@@ -1,0 +1,6 @@
+D:\etc\PhotonServer\Photon4\src-server\HivePlugin\bin\Debug\PhotonHivePlugin.dll
+D:\etc\PhotonServer\Photon4\src-server\HivePlugin\bin\Debug\PhotonHivePlugin.pdb
+D:\etc\PhotonServer\Photon4\src-server\HivePlugin\obj\Debug\PhotonHivePlugin.csproj.AssemblyReference.cache
+D:\etc\PhotonServer\Photon4\src-server\HivePlugin\obj\Debug\PhotonHivePlugin.csproj.CoreCompileInputs.cache
+D:\etc\PhotonServer\Photon4\src-server\HivePlugin\obj\Debug\PhotonHivePlugin.dll
+D:\etc\PhotonServer\Photon4\src-server\HivePlugin\obj\Debug\PhotonHivePlugin.pdb
