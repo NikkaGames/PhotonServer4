@@ -57,6 +57,7 @@
     <Compile Include="PropertyChangedEventArgs.cs" />
     <Compile Include="WebFlags.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>xcopy "$(TargetPath)" "$(ProjectDir)\..\Plugins\lib\" /y</PostBuildEvent>

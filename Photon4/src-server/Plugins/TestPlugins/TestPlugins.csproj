@@ -53,6 +53,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AntiCheat\AntiCheatPlugin.cs" />
+    <Compile Include="AntiCheat\AntiCheatPluginFactory.cs" />
     <Compile Include="BanTestPlugin.cs" />
     <Compile Include="BroadcastEventPlugin.cs" />
     <Compile Include="ChangeGamePropertiesOnJoinPlugin.cs" />

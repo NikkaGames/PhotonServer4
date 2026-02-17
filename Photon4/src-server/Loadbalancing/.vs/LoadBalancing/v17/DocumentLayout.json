@@ -1,7 +1,17 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\etc\\PhotonServer\\Photon4\\src-server\\Loadbalancing\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2F474E-6F09-49A4-954B-31279FAE7E62}|..\\Plugins\\TestPlugins\\TestPlugins.csproj|d:\\etc\\photonserver\\photon4\\src-server\\plugins\\testplugins\\anticheat\\anticheatplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2F474E-6F09-49A4-954B-31279FAE7E62}|..\\Plugins\\TestPlugins\\TestPlugins.csproj|d:\\etc\\photonserver\\photon4\\src-server\\plugins\\testplugins\\anticheat\\anticheatpluginfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17DE1826-DF75-4DC7-AEE1-70207103A867}|..\\Hive\\PhotonHive.NUnit\\PhotonHive.Tests.csproj|d:\\etc\\photonserver\\photon4\\src-server\\hive\\photonhive.nunit\\testextra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +19,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AntiCheatPluginFactory.cs",
+              "DocumentMoniker": "D:\\etc\\PhotonServer\\Photon4\\src-server\\Plugins\\TestPlugins\\AntiCheat\\AntiCheatPluginFactory.cs",
+              "RelativeDocumentMoniker": "..\\Plugins\\TestPlugins\\AntiCheat\\AntiCheatPluginFactory.cs",
+              "ToolTip": "D:\\etc\\PhotonServer\\Photon4\\src-server\\Plugins\\TestPlugins\\AntiCheat\\AntiCheatPluginFactory.cs",
+              "RelativeToolTip": "..\\Plugins\\TestPlugins\\AntiCheat\\AntiCheatPluginFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:50:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AntiCheatPlugin.cs",
+              "DocumentMoniker": "D:\\etc\\PhotonServer\\Photon4\\src-server\\Plugins\\TestPlugins\\AntiCheat\\AntiCheatPlugin.cs",
+              "RelativeDocumentMoniker": "..\\Plugins\\TestPlugins\\AntiCheat\\AntiCheatPlugin.cs",
+              "ToolTip": "D:\\etc\\PhotonServer\\Photon4\\src-server\\Plugins\\TestPlugins\\AntiCheat\\AntiCheatPlugin.cs",
+              "RelativeToolTip": "..\\Plugins\\TestPlugins\\AntiCheat\\AntiCheatPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:32:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestExtra.cs",
+              "DocumentMoniker": "D:\\etc\\PhotonServer\\Photon4\\src-server\\Hive\\PhotonHive.NUnit\\TestExtra.cs",
+              "RelativeDocumentMoniker": "..\\Hive\\PhotonHive.NUnit\\TestExtra.cs",
+              "ToolTip": "D:\\etc\\PhotonServer\\Photon4\\src-server\\Hive\\PhotonHive.NUnit\\TestExtra.cs",
+              "RelativeToolTip": "..\\Hive\\PhotonHive.NUnit\\TestExtra.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAEwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:53:58.523Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
